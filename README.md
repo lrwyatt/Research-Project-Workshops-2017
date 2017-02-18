@@ -1,2 +1,3 @@
-# Research-Project-Workshops-2017
-Files and exercises for the 2017 RPW series
+# Research Project Workshops
+All of the lessons and exercises for the Research Project Workshops (RPW) series can be accessed here: XXX
+
