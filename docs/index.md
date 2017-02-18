@@ -1,0 +1,3 @@
+# Research Project Workshops
+The OHSU Library has developed a workshop series to address elements of doing research that may not be explicitly covered in formal coursework. 
+The goal of the workshops is to allow researchers the hands-on time dedicated for addressing topics like research data management (RDM) fundamentals, experimental design, and scientific communication within their work. You might think of this like a working group.
