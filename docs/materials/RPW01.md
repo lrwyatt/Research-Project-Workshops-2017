@@ -7,7 +7,7 @@ Individuals will interview each other about their research projects/experience t
 1.	Welcome
 2.	Participant Introductions
 3.	GitHub set up and introdution 
-4.	Researcher profile development
+4.	[Researcher profile development](Researcher Profiles_2017-02-26.pdf)
 5.	Get to know your data
 6.	Wrap up/questions
 
