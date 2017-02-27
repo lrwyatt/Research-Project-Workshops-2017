@@ -8,7 +8,7 @@ The goal of the workshops is to allow researchers the hands-on time dedicated fo
 # Code of Conduct
 We want everyone to feel conmfortable and confident in our learning spaces. Thus, for these workshops, we will follow a code of conduct. INSERT CODE OF CONDUCT HERE
 
-# Individual Workshop Content & Schedule
+# Workshop Contents & Schedule
 The content of each workshop is designed to be a time for those engaged in research to bring their computer (or you may borrow one from the Library if needed) and parts of their research in order to dive into the material and put what's learned into practice. All of the materials for the workshop are here in GitHub and you will be oriented to GitHub as a first step. If you have any questions or comments that you are comfortable sharing with the group, please submit them via the GitHub Issues feature (found in the menu items above). 
 
 - Research Project Workshop 01: Researcher Profiles
