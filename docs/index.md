@@ -1,4 +1,4 @@
-# Welcome to the Research Project Workshop Series
+# Welcome
 
 The OHSU Library is very pleased that you have decided to join us for individual or all (woot, boot campers!) meetings for this series. We hope that you find the experience rewarding. The workshops are designed to address elements of doing research that may not be explicitly covered in formal coursework, aspects of the research process that are typically learned while "on-the-job". Who wants that?! Hey, we all know that lots of time and resources are at stake...not to mention all the chatter about research rigor and reproducibility.  
 
