@@ -17,7 +17,7 @@ The content of each workshop is designed to be a time for those engaged in resea
 - Research Project Workshop 04: Efficient Searches, Part I 
 - Research Project Workshop 05: Efficient Searches, Part II
 - Research Project Workshop 06: Citation Management 
-- Research Project Workshop 07: Exploratory Data Analysis (EDA) and Data Visualization
+- Research Project Workshop 07: Exploratory Data Analysis (EDA) & Data Visualization
 - Research Project Workshop 08: Scholarly Communication, Part I 
 - Research Project Workshop 09: Scholarly Communication, Part II
 - Research Project Workshop 10: Boot Camp-er Presentations 
