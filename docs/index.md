@@ -5,13 +5,11 @@ The OHSU Library is very pleased that you have decided to join us for individual
 # Goals
 The goal of the workshops is to allow researchers the hands-on time dedicated for addressing topics like research data management (RDM) fundamentals, experimental design, and scientific communication within their work. You might think of this like a working group. In an effort to make your efforts more effective and efficient, throught this series we will work together to (i) raise awareness about some of the tricky parts of research - the fewer surprises, the better and (ii) develop more functional procedures and tricks that you can build into your work that should help increase productivity AND strengthen your research program.
 
-All of the materials for the workshop are here in GitHub and you will be oriented to GitHub as a first step. If you have any questions or comments that you are comfortable sharing with the group, please submit them via the GitHub Issues feature (found in the menu items above). 
-
 # Code of Conduct
 We want everyone to feel conmfortable and confident in our learning spaces. Thus, for these workshops, we will follow a code of conduct. INSERT CODE OF CONDUCT HERE
 
 # Individual Workshop Content & Schedule
-The content of each workshop is designed to be a time for those engaged in research to bring their computer (or you may borrow one from the Library if needed) and parts of their research in order to dive into the material and put what's learned into practice.
+The content of each workshop is designed to be a time for those engaged in research to bring their computer (or you may borrow one from the Library if needed) and parts of their research in order to dive into the material and put what's learned into practice. All of the materials for the workshop are here in GitHub and you will be oriented to GitHub as a first step. If you have any questions or comments that you are comfortable sharing with the group, please submit them via the GitHub Issues feature (found in the menu items above). 
 
 - Research Project Workshop 01: Researcher Profiles
 - Research Project Workshop 02: Research Data Management Overview
