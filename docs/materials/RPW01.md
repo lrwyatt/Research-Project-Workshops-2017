@@ -10,3 +10,7 @@ Individuals will interview each other about their research projects/experience t
 4.	Researcher profile development
 5.	Get to know your data
 6.	Wrap up/questions
+
+# Privacy Reminder
+All information/content on GitHub is public unless one pays for a secret repository. On that note, take into consideration the items that are stored in GitHub. It is against OHSU policy to publicly communicate patient or student data as well as any information pertaining to intellectual property.
+
