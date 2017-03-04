@@ -9,7 +9,7 @@ The goal of the workshops is to allow researchers the hands-on time dedicated fo
 We want everyone to feel conmfortable and confident in our learning spaces. Thus, for these workshops, workshop participants are expected to follow the following code of conduct: We value the involvement of everyone in this Library. We are committed to creating a friendly and respectful place for learning and contributing. All participants are expected to show respect and courtesy to others.
 
 # Workshop Contents & Schedule
-The content of each workshop is designed to be a time for those engaged in research to bring their computer (or you may borrow one from the Library if needed) and parts of their research in order to dive into the material and put what's learned into practice. All of the materials for the workshop are here in GitHub and you will be oriented to GitHub as a first step. If you have any questions or comments that you are comfortable sharing with the group, please submit them via the GitHub Issues feature (found in the menu items above). 
+The content of each workshop is designed to be a time for those engaged in research to bring their computer (or you may borrow one from the Library if needed) and parts of their research in order to dive into the material and put what's learned into practice. All of the materials for the workshop are here in GitHub and you will be oriented to GitHub as a first step. If you have any questions or comments that you are comfortable sharing with the group, please submit them via the GitHub Issues feature. 
 
 - [Research Project Workshop 01](materials/RPW01.md): Researcher Profiles
 - Research Project Workshop 02: Research Data Management Overview
