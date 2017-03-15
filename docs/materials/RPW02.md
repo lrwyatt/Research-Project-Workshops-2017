@@ -1,6 +1,6 @@
 # Research Data Management (RDM) Overview
 
-Individuals will interview each other about their research projects/experience to develop their research profile and get to better know their data. Participants will collectively review interview results and identify/discuss issues that they might encounter during their projects with regard to data management. INSTRUCTOR(S): Letisha Wyatt
+In this meeting, we will be discussing research and data life cycles and data management plan content. By the end of the workshop, you will have started on a draft plan that you can modify as you work on your research project. Prior to the meeting, please create a (free) profile on GitHub which is where all the workshop materials can be found online. INSTRUCTOR(S): Letisha Wyatt
 
 ## Agenda
 
