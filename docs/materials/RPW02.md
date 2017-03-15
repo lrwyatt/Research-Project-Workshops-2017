@@ -6,8 +6,8 @@ In this meeting, we will be discussing research and data life cycles and data ma
 
 1.	Welcome
 2.	GitHub reminder 
-3.	RDM Activity
-4.  RDM presentation
+3.	[Data lifecycle Activity](Data lifecycle Components and Activities.docx)
+4.  [RDM presentation](RPW02_data management overview_group copy.pptx)
 5.  Planning for your data
 6.	Wrap up/questions
 
