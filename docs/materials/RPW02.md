@@ -2,6 +2,9 @@
 
 In this meeting, we will be discussing research and data life cycles and data management plan content. By the end of the workshop, you will have started on a draft plan that you can modify as you work on your research project. Prior to the meeting, please create a (free) profile on GitHub which is where all the workshop materials can be found online. INSTRUCTOR(S): Letisha Wyatt
 
+## Slides 
+Associated slides can be found [here](brief GitHub tour.pdf).
+
 ## Agenda
 
 1.	Welcome
