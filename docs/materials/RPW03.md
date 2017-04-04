@@ -6,10 +6,10 @@ Instruction will cover experimental design and RDM best practices (e.g., formatt
 
 1.	Welcome
 2.	Project organization
-3.	Experimental design tips and resources
-4.	[Data Standardization](Researcher Profiles_2017-02-26.pdf)
-5.	Data Organization
-6.  Data Dictionary
+3.	[Experimental design tips](CaseStudyVitaminDforBipolarDepression.docx) and resources
+4.	[Data Standardization](Standards exercise.pdf)
+5.	[Data Organization](Data_Table_Exercise.xlsx)
+6.  [Data Dictionary](Data Dictionary Exercise.docx)
 6.	Wrap up/questions
 
 # Privacy Reminder
