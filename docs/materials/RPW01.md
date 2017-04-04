@@ -1,6 +1,7 @@
 # Researcher Profiles
 
 Individuals will interview each other about their research projects/experience to develop their research profile and get to better know their data. Participants will collectively review interview results and identify/discuss issues that they might encounter during their projects with regard to data management. INSTRUCTOR(S): Letisha Wyatt
+Associated slides can be found [here](brief GitHub tour.pdf).
 
 ## Agenda
 
