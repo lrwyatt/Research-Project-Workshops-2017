@@ -3,12 +3,12 @@
 Instruction will cover essential elements of designing comprehensive searches, including: creating a research concept map, defining keywords, and search tips for PubMed. Participants will take some time to also troubleshoot searches relevant to their projects. INSTRUCTOR(S): Andrew Hamilton & Letisha Wyatt 
 
 ## Slides 
-Associated slides can be found [here](RPW03_data management best practices.pptx).
+Associated slides can be found [here](RPW04_efficient searches pt1_2017-04-26.pptx).
 
 ## Agenda/Learning Outcomes
 
 1.	Welcome
-2.	How to frame your question (define concept and keywords)
+2.	How to frame your question [define concept and keywords](SEARCH STRATEGY WORKSHEET_from GB.docx)
 3.	Understand the benefit and application of controlled vocabulary and indexing (PubMed MeSH)
 4.	Execute and save search results or search strategy (demo/exercise then workshop indivdual research questions)
 5.	Wrap up/questions
