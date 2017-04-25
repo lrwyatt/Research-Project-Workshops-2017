@@ -14,7 +14,7 @@ The content of each workshop is designed to be a time for those engaged in resea
 - [Research Project Workshop 01](materials/RPW01.md): Researcher Profiles
 - [Research Project Workshop 02](materials/RPW02.md): Research Data Management Overview
 - [Research Project Workshop 03](materials/RPW03.md): Research Data Management Best Practices
-- Research Project Workshop 04: Efficient Searches, Part I 
+- [Research Project Workshop 04](materials/RPW04.md): Efficient Searches, Part I 
 - Research Project Workshop 05: Efficient Searches, Part II
 - Research Project Workshop 06: Citation Management 
 - Research Project Workshop 07: Exploratory Data Analysis (EDA) & Data Visualization
