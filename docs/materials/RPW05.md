@@ -8,7 +8,7 @@ Associated slides can be found [here](RPW05_efficient searches pt2_2017-05-03.pp
 ## Agenda/Learning Outcomes
 
 1.	Welcome
-2.	Recall: [How to frame your question](Framing your research question.pdf)(define concepts and keywords) and the benefits/application of controlled vocabulary
+2.	Recall: [How to frame your question](Framing your research question.pdf) (define concepts and keywords) and the benefits/application of controlled vocabulary
 3.	Understand Understand and apply unique features of Ovid Medline database interface (“adjacency” searching)
 4.	Understand and apply the unique features of Scopus database searching (journal publishing information; author and institution searching)
 5.	Search on your research topic!
