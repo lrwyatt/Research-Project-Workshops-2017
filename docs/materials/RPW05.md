@@ -3,7 +3,7 @@
 Instruction will cover essential elements of designing comprehensive searches, including: unique features of Ovid Medline – what’s it got that PubMed doesn’t? As well, we'll identify the utility of the database Scopus, including how it’s helpful for figuring out which journals to publish your work in! We’ll recall those important elements of framing your research question for those who missed last week and spend the majority of the time troubleshooting searches relevant to your projects INSTRUCTOR(S): Andrew Hamilton, Laura Zeigen & Letisha Wyatt 
 
 ## Slides 
-Associated slides can be found [here](RPW05_efficient searches pt2_2017-05-03.pptx)
+Associated slides can be found [here](RPW05_efficient searches pt2_2017-05-03.pptx).
 
 ## Agenda/Learning Outcomes
 
