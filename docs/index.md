@@ -16,7 +16,7 @@ The content of each workshop is designed to be a time for those engaged in resea
 - [Research Project Workshop 03](materials/RPW03.md): Research Data Management Best Practices
 - [Research Project Workshop 04](materials/RPW04.md): Efficient Searches, Part I 
 - [Research Project Workshop 05](materials/RPW05.md): Efficient Searches, Part II
-- Research Project Workshop 06: Citation Management 
+- [Research Project Workshop 06](materials/RPW06.md): Citation Management 
 - Research Project Workshop 07: Exploratory Data Analysis (EDA) & Data Visualization
 - Research Project Workshop 08: Scholarly Communication, Part I 
 - Research Project Workshop 09: Scholarly Communication, Part II
