@@ -1,4 +1,4 @@
-# Research Data Management (RDM) Best Practices 
+# Workshop 03: Research Data Management (RDM) Best Practices 
 
 Instruction will cover experimental design and RDM best practices (e.g., formatting spreadsheets, file directories, data dictionaries, naming files, version control). At the end of the workshop, participants will have started a draft data dictionary for their own projects.
 
