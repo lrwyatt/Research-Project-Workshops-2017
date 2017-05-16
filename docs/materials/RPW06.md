@@ -1,6 +1,8 @@
 # Citation Management
 
-Instruction will cover what citation management software does and a brief overview of the different types of tools available, including ways to deal with access issues that may effect collaboration. Then we’ll dive into using EndNote - the citation management software that is available for free to all OHSU students, staff, and faculty and for which the Library provides support and training. The majority of our time together will be setting up your Library preferences, importing files and PDFs that you gathered from our last database searching workshops, and learning some best practices! INSTRUCTOR(S): Stephanie Kerns & Letisha Wyatt 
+Instruction will cover what citation management software does and a brief overview of the different types of tools available, including ways to deal with access issues that may effect collaboration. Then we’ll dive into using EndNote - the citation management software that is available for free to all OHSU students, staff, and faculty and for which the Library provides support and training. The majority of our time together will be setting up your Library preferences, importing files and PDFs that you gathered from our last database searching workshops, and learning some best practices! 
+
+INSTRUCTOR(S): Stephanie Kerns & Letisha Wyatt 
 
 ## Slides 
 Associated slides can be found [here](RPW06_citation mgmt_2017-05-17.pptx).
