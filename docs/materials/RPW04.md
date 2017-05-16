@@ -1,6 +1,8 @@
 # Efficient Searches, Part I
 
-Instruction will cover essential elements of designing comprehensive searches, including: creating a research concept map, defining keywords, and search tips for PubMed. Participants will take some time to also troubleshoot searches relevant to their projects. INSTRUCTOR(S): Andrew Hamilton & Letisha Wyatt 
+Instruction will cover essential elements of designing comprehensive searches, including: creating a research concept map, defining keywords, and search tips for PubMed. Participants will take some time to also troubleshoot searches relevant to their projects. 
+
+INSTRUCTOR(S): Andrew Hamilton & Letisha Wyatt 
 
 ## Slides 
 Associated slides can be found [here](RPW04_efficient searches pt1_2017-04-26.pptx).
