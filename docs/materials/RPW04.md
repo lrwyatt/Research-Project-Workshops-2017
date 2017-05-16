@@ -1,4 +1,4 @@
-# Efficient Searches, Part I
+# Workshop 04: Efficient Searches, Part I
 
 Instruction will cover essential elements of designing comprehensive searches, including: creating a research concept map, defining keywords, and search tips for PubMed. Participants will take some time to also troubleshoot searches relevant to their projects. 
 
