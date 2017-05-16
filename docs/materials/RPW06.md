@@ -9,7 +9,7 @@ Associated slides can be found [here](RPW06_citation mgmt_2017-05-17.pptx).
 
 1.	Welcome
 2.	Understand the basic function and utility of citation management software
-3.	Set-up and important citation information into an application on your computer
+3.	[Apply best practices for citation management](EndNote best practices + key features)
 4.	Utilize 1-2 key features in EndNote
 5.	Identify ways to overcome access issues that may effect collaboration workflows 
 6.  Wrap up/questions
