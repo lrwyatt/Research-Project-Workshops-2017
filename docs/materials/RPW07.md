@@ -12,8 +12,8 @@ Associated slides can be found [here](RPW07_eda and dataviz_2017-06-07.pptx).
 1.	Welcome
 2.	Understand elements of creating an effective visualization
 3.	Awareness of (free) tools
-4.	Strategies for working towards more reproducible practices
-5.	Feel comfortable with the RStudio workspace 
+4.	Understand strategies for working towards more reproducible practices
+5.	Feel comfortable working with [data](smoking data_2017-06-01.xlsx) in RStudio [(via exercises)](RPW07_exercises_2017-06-07.docx) 
 6.  Wrap up/questions
 
 # Privacy Reminder
