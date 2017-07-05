@@ -18,6 +18,6 @@ The content of each workshop is designed to be a time for those engaged in resea
 - [Research Project Workshop 05](materials/RPW05.md): Efficient Searches, Part II
 - [Research Project Workshop 06](materials/RPW06.md): Citation Management 
 - [Research Project Workshop 07](materials/RPW07.md): Exploratory Data Analysis (EDA) & Data Visualization
-- Research Project Workshop 08: Scholarly Communication, Part I 
-- Research Project Workshop 09: Scholarly Communication, Part II
+- [Research Project Workshop 08] (materials/RPW0809.md): Scholarly Communication, Part I 
+- [Research Project Workshop 09] (materials/RPW0809.md): Scholarly Communication, Part II
 - Research Project Workshop 10: Boot Camp-er Presentations 
